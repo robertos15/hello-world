@@ -1,2 +1,2 @@
 # hello-world
-All ideas, thing to share etc.
+New ideas, thing to share etc.
